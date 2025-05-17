@@ -6284,6 +6284,7 @@ figcaption {
   display: flex;
 }
 
+
 .home-hero-image {
   object-fit: cover;
   width: 100%;
@@ -6321,9 +6322,9 @@ figcaption {
 .heading-alt-small {
   font-family: var(--global--body-font-family);
   text-transform: none;
-  font-size: 3vw;
-  font-weight: 600;
-  line-height: 110%;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 100%;
 }
 
 .heading-style-xxlarge {
@@ -7350,7 +7351,7 @@ figcaption {
   }
 
   .heading-alt-small {
-    font-size: 5rem;
+    font-size: 3rem;
   }
 
   .heading-style-xxlarge {
